@@ -1,0 +1,2 @@
+# java-wordcounter
+ HORRIBLE WORD COUNTER WHY DOES THIS WORK
