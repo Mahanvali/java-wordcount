@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);    //  Create new scanner object
-        System.out.print("Sentece: ");   //  Print out the prompt
+        System.out.print("Sentence: ");   //  Print out the prompt
         String letters = input.nextLine().trim();    //  Take input, using trim to not count whitespaces
         String[] words = letters.split("[^a-zA-Z]+");   //  regex for counting words
         if(words.length > 1){
