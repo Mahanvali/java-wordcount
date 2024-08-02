@@ -1,2 +1,2 @@
 # java-wordcounter
- HORRIBLE WORD COUNTER WHY DOES THIS WORK
+ An extremely simple CLI word counter in Java!
